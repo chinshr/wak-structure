@@ -1,3 +1,4 @@
-# Wakanda Solution
+# Wak Project Structure
 
-* How to get started?
+This project is a work in progress to start a discussion on project structure.
+
